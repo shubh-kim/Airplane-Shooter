@@ -1,3 +1,3 @@
 # FreeFrap
 
-link  https://shubh-kim.github.io/FreeFrap/
+link  https://shubh-kim.github.io/Airplane-Shooter/
